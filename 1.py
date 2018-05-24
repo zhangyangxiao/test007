@@ -1,2 +1,3 @@
 num = 1
-mun2 = 20
+num = 2
+num = 3
